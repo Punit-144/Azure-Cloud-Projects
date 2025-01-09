@@ -62,21 +62,32 @@ This project demonstrates the implementation of **Azure Virtual Network (VNet) P
   ping <IPv4 Address of VM2>
 
 ### **7 Use PowerShell in VM2 to ping VM1's IPv4 address:**
-ping <IPv4 Address of VM1>
+ping IPv4 Address of VM1
 
 📂 Files Included
+
     • PDF Documentation:
+
         • Virtual Network Peering
+
         • Virtual Machine Connections
 
 
 
+
 💡 Key Learnings
+
     • Setting up and configuring Azure VNets and Subnets.
+
     • Implementing VNet Peering for seamless inter-network communication.
+
     • Managing virtual machines and configuring connectivity using PowerShell.
+
     • Understanding security configurations with firewalls
 
 
+
 🔗 References
-    • Official Azure Documentation: https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
+
+
+    • Official Azure Documentation:  https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
