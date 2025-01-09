@@ -70,7 +70,7 @@ The task involves implementing an N-Tier architecture on the Azure portal. This 
 
 - Ensure that internet access works as expected and that the security rules are properly applied.
 
-## screenshots
+## Screenshots
 
 I have created a detailed PDF documentation with screenshots and step-by-step instructions for implementing N-Tier-Architecture. Please refer to the PDF for visual guidance and further details.
 
