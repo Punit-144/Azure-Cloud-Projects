@@ -94,4 +94,17 @@ Connect to both **AzureVM** and **OnPremVM** using RDP.
 
 ---
 
-This structured process ensures a secure and functional Site-to-Site connection between on-premises and Azure environments, enabling seamless communication for business applications and resources.
+## Screenshots:
+I have created a detailed PDF documentation with screenshots and step-by-step instructions for configuring Point-to-Site connectivity. Please refer to the PDF for visual guidance and further details.
+
+---
+## References:
+- [Microsoft Azure VPN Gateway Documentation](https://learn.microsoft.com/en-us/azure/vpn-gateway/)
+- [Routing and Remote Access Services (RRAS) Configuration](https://learn.microsoft.com/en-us/windows-server/networking/technologies/rras/rras-top)
+
+---
+
+## Conclusion:
+By following the outlined steps, you have successfully established a Site-to-Site VPN connection between your on-premises network and Azure Virtual Network. This setup allows secure and seamless communication, enabling businesses to extend their resources to the cloud while maintaining security and scalability. Remember to always review your network configuration and test the connection for smooth operations in your hybrid environment.
+
+---
