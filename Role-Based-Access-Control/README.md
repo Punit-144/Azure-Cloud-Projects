@@ -1,4 +1,4 @@
-# IIS-Web-Server Configuration
+# RBAC
 
 This folder contains the implementation of the Privileged Identity Management (PIM) task on Azure. It demonstrates the configuration and role assignment process in Azure, focusing on Just-in-Time (JIT) access, approval workflows, and multi-factor authentication for added security.
 
